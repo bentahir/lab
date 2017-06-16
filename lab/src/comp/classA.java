@@ -1,5 +1,5 @@
 package comp;
 
 public class classA {
-	int A;
+	int A2;
 }
