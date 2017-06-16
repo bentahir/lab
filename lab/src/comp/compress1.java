@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 
-public class   compress1 
+public class   compress1    
 {	
 	// compress filePath file into a zip file filePathZipped
     private static String  compress( String filePath )
